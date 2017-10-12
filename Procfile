@@ -1,1 +1,1 @@
-web: python DndExpBot.py
+worker: python DndExpBot.py
