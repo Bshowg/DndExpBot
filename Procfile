@@ -1,1 +1,1 @@
-worker: python DndExpBot.py
+worker: python DndExpBot.py runserver 0.0.0.0:5000
