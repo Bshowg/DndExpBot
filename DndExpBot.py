@@ -23,7 +23,7 @@ if len(get_result) > 0:
             last_update = get_result[len(get_result)]
 return last_update
 
-dgreet_bot = BotHandler(token)  
+greet_bot = BotHandler(token)  
 greetings = ('hello', 'hi', 'greetings', 'sup')  
 now = datetime.datetime.now()
 def main():  
