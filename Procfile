@@ -1,1 +1,1 @@
-web: python DndExpBot.py $PORT
+worker: python DndExpBot.py 
